@@ -1,4 +1,5 @@
-import dynamic_allocation
+import context
+from src import dynamic_allocation
 import pandas as pd
 import numpy as np
 import unittest
